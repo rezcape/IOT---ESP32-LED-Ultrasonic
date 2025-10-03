@@ -1,5 +1,11 @@
 # Laporan Konfigurasi Channel dan Pengiriman Data IoT ke ThingSpeak
 
+| Nama | NRP       |
+|-------|-----------|
+| Ahmad Syauqi Reza | 5027241085   |
+| S. Farhan Baig | 5027241097  |
+---
+
 ## 📌 Overview Project
 
 Program ini melakukan hal berikut:

@@ -13,6 +13,7 @@ Program ini melakukan hal berikut:
 - **Mengukur Jarak** menggunakan sensor ultrasonik (misalnya HC-SR04) untuk mendeteksi jarak objek.
 - **Memberi Peringatan** dengan menyalakan LED jika objek berada pada jarak ≤ 10 cm.
 - **Mengirim Data** hasil pengukuran ke platform IoT **ThingSpeak** melalui koneksi Wi-Fi setiap 20 detik.
+![WhatsApp Image 2025-10-03 at 2 12 41 PM](https://github.com/user-attachments/assets/8d13bb40-ed79-4995-8a89-b4be36a0dc22)
 
 ---
 

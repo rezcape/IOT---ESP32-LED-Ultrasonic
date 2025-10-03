@@ -6,7 +6,7 @@
 | S. Farhan Baig | 5027241097  |
 ---
 
-## 📌 Overview Project
+##  Overview Project
 
 Program ini melakukan hal berikut:
 

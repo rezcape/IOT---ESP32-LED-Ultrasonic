@@ -28,6 +28,7 @@ Isi konfigurasi sebagai berikut:
   - Status: Diaktifkan
 
 Pengaktifan Field 1 memastikan bahwa channel siap menerima data jarak pada kolom tersebut.
+Lalu tekan save pada bagian bawah halaman.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/7e3ce73e-0efe-4d19-9d6d-455ce1e8bff9" />
 
